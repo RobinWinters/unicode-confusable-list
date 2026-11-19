@@ -1,0 +1,2 @@
+A clean ASCII sample.
+Codes: A B C O P X, a c e o p x.
